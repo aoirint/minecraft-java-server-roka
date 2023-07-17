@@ -13,6 +13,7 @@ services:
       VERSION: "1.20.1" # https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs
       DIFFICULTY: ${DIFFICULTY}
       SERVER_NAME: ${SERVER_NAME}
+      MOTD: ${MOTD}
       ENABLE_WHITELIST: ${ENABLE_WHITELIST}
       WHITELIST: ${WHITELIST}
       OPS: ${OPS}
