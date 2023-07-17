@@ -10,7 +10,7 @@ services:
       EULA: "TRUE"
       TZ: ${TZ}
       TYPE: "VANILLA" # https://github.com/itzg/docker-minecraft-server#server-types
-      VERSION: "1.19.2" # https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs
+      VERSION: "1.20.1" # https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs
       DIFFICULTY: ${DIFFICULTY}
       SERVER_NAME: ${SERVER_NAME}
       ENABLE_WHITELIST: ${ENABLE_WHITELIST}
